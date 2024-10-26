@@ -1,1 +1,5 @@
-# Registration-Form
+-create a python code for registration form
+-save this file as .py
+-open gitcmd 
+-using the repository link upload this to github repository
+-use git push origin master/main
